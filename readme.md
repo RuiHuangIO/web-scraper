@@ -1,6 +1,6 @@
-**Web scraping excercises with Python**
+**Python web scrapers**
 
-This repo consists of some web scraping excercises I did in Python.
+This repo consists of some web scrapers I did in Python3.
 
 Python was the language that got me into development in general and this was the first project I did on my own in Feb 2018.
 
